@@ -25,25 +25,13 @@ A **machine learning system** that analyzes in-game behavior to predict which pl
 An **AI-powered match analysis app** built with AWS Bedrock that tracks performance and generates personalized coaching insights.  
 - 🧠 Uses AWS Bedrock for natural language match summaries and improvement tips  
 - 📈 Tracks win/loss trends, shot patterns, and opponent tendencies  
-- 📱 Designed for players at all skill levels  
-
-### 🛍️ [AI Shopping Assistant](#)  
-A **conversational shopping assistant** that understands user preferences and recommends products with context-aware reasoning.  
-- 💬 Powered by LLM-based dialogue for natural product discovery  
-- 🔍 Filters by budget, style, and use case in real time  
-- 🔗 Integrates with product APIs for live inventory data  
+- 📱 Designed for players at all skill levels   
 
 ### 🏓 [Dura-Paddle](#)  
 A portable **pickleball paddle degradation tester** that measures the **Coefficient of Restitution (COR)** using an Arduino, ultrasonic sensor, and 3D-printed housing.  
 - ⚡ Predicts paddle wear and lifespan  
 - 🛡️ Low-cost, player-friendly design  
 - 📊 Delivered results with ±5% accuracy vs. lab benchmarks  
-
-### 🏈 [Ravens Scouting Predictor](#)  
-A **sports analytics engine** to evaluate college football players and predict NFL performance, draft value, and team fit — focused on the **Baltimore Ravens**.  
-- 🤖 ML models trained on historical stats & combine data  
-- 📊 Generates scouting grades and draft risk/steal insights  
-- 🔮 Highlights player-team fit probabilities  
 
 ---
 
