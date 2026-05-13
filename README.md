@@ -71,7 +71,7 @@ A portable **pickleball paddle degradation tester** that measures the **Coeffici
 - **Smart Analytics Inc.** – Data Analytics Intern (2024–2025)  
   Automated Python workflows, improved reporting accuracy, and streamlined data engineering processes.  
 
-- **METY Technology** – AI/ML Team Member (2022–Present)  
+- **METY Technology** – AI/ML Team Member (2022–2024)  
   Developed predictive ML models and a wellness app serving 100+ users, applying scikit-learn for personalized health plans.  
 
 ---
