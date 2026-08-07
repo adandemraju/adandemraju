@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me  
-I am an aspiring **software engineer and data scientist** passionate about building data-driven, scalable solutions.  
+I am an aspiring **software engineer an AI/ML engineer** passionate about building data-driven, scalable solutions.  
 With experience in **Python, Java, ML frameworks, and engineering prototypes**, I bridge analytics and real-world applications.  
 Currently, I am exploring **sports analytics, predictive modeling, and cloud-native AI** through hands-on projects.  
 
