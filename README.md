@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ananya Dandemraju  
 🎓 Undergraduate at the **University of Virginia (UVA)**  
-📚 Dual Degree: **B.S. Computer Science** + **B.A. Applied Statistics (Finance & Business Concentration)** (2024–2028)  
+📚 Dual Degree: **B.S. Computer Science (AI Concentration)** + **B.A. Applied Statistics (Finance & Business Concentration)** (2024–2028)  
 📍 Ashburn, VA  
 🔗 [LinkedIn](https://linkedin.com/in/ananyadandemraju) | [GitHub](https://github.com/adandemraju)  
 
